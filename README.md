@@ -1,20 +1,11 @@
 ## Hi everyone 👋
 
-I’m currently working in Puntospoint as a Frontend Developer 👾.
+#### About Me
+- 🐱‍🏍 I’m currently working in Puntospoint as a Frontend Developer.
+- 🧠 Dedicated to continuous learning and self-improvement
+  
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbarlett&theme=dracula)
 
-![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbarlett&theme=dracula)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sbarlett&theme=dracula)
 
-<!--
-**sbarlett/sbarlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbarlett&layout=compact&theme=dracula)
