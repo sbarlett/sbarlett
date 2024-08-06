@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 #### About Me
-- 🐱‍🏍 I’m currently working in Puntospoint as a Frontend Developer.
+- 🚀 I’m currently working in Puntospoint as a Frontend Developer.
 - 🧠 Dedicated to continuous learning and self-improvement
   
 ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sbarlett&theme=dracula)
