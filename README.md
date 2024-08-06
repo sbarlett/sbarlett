@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi everyone 👋
+
+I’m currently working in Puntospoint as a Frontend Developer 👾.
+
+![Anurag's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbarlett&theme=dark)
 
 <!--
 **sbarlett/sbarlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
